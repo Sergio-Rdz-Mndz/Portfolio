@@ -1,4 +1,4 @@
-# Hello, my name is Sergio
+# Hey, I'm Sergio
  
 Backend developer from Aguascalientes, Mexico. I focus on building RESTful APIs with Java and Spring Boot. Currently studying at Universidad Tecnológica Metropolitana de Aguascalientes and looking for my first internship.
  
